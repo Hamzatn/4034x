@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "github",
+    "repository": "ghsr/android_kernel_tcl_4034x",
+    "target_path": "kernel/tcl/4034x",
+    "revision": "android-7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "ghsr/proprietary_vendor_tcl_4034x",
+    "target_path": "vendor/tcl/4034x",
+    "revision": "android-7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_tcl",
+    "target_path": "hardware/tcl",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1"
+  }
+]
